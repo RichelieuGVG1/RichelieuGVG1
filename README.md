@@ -8,7 +8,7 @@ NUST MISIS student (2021-2025) at IVT \[Информатика и Вычисли
 
 *   🌍  I'm based in Moscow, Russia
 *   🖥️  See my portfolio at [my personal site](http://guryanov-vasily.ru/#projects)
-*   🚀  I'm currently working on [New version of Neuroplay](http://itatmisis.ru/theatre)
+*   🚀  I'm currently working on [New version of Neurostanislavsky](http://itatmisis.ru/theatre)
 *   🧠  I'm learning ML, DS, NLP
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
