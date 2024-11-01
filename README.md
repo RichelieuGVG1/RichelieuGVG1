@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and ML Developer
 ------------------------------
 
-NUST MISIS student (2021-2025) at IVT \[Информатика и Вычислительная техника\]
+NUST MISIS student (2021-2025) at IVT \[Informatics and Computing Machines\]
 
 *   🌍  I'm based in Moscow, Russia
 *   🖥️  See my portfolio at [my personal site](http://guryanov-vasily.ru/#projects)
