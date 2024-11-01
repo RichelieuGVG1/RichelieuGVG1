@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vasily Guryanov
 =======================================================================================================================================
 
-Web Developer and ML Developer
+ML & Python Developer
 ------------------------------
 
 NUST MISIS student (2021-2025) at IVT \[Informatics and Computing Machines\]
