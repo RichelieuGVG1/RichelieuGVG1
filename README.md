@@ -2,7 +2,8 @@
 
 **ML & Python Developer**
 
-Student at NUST MISIS, studying Computer Science.
+Bachelor of Science (BSc) in Computer Science, NUST MISIS
+Master of Innovation (MInnov) in STI Governance, HSE
 
 Based in Moscow, Russia.
 
@@ -13,4 +14,4 @@ Machine Learning · Data Science · NLP
 Python · Git · Flask · Django · MySQL · HTML · jQuery
 
 ### Links
-[Portfolio](http://guryanov-vasily.com) · [GitHub](https://github.com/RichelieuGVG1)
+[Personal website](http://guryanov-vasily.com)
