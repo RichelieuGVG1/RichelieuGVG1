@@ -1,6 +1,6 @@
 # Vasily Guryanov
 
-**ML & Python Developer**
+**ML & Python Developer, researcher**
 
 Bachelor of Science (BSc) in Computer Science, NUST MISIS
 
